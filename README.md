@@ -1,3 +1,3 @@
 # expense-tracker
 
-This is an expense tracker app for CS 361.
+This is an expense tracker app for CS 361...
